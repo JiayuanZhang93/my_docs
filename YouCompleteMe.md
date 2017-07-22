@@ -11,7 +11,11 @@ clang-4.0 will be downloaded when you execute command <b>./install.py</b>
 <p>Hence, you can use download software to download this file.  Then copy this file to path:<b>/home/zhangjiayuan/.vim/bundle/YouCompleteMe/third_party/ycmd/clang_archives/</b></p>
 
 ### vim installation and problems
+<<<<<<< HEAD
 <p>if you use command as fllows:</p>
+=======
+<p>if you use command as follows:</p>
+>>>>>>> 6fee4667c15605fc4da4ba1bb9dceca91f24810b
 <pre><code>sudo apt-get install vim</code></pre>
 <p>Maybe you will face the problems: </p>
 <pre><code>YouCompleteMe unavailable: requires Vim compiled with Python (2.6+ or 3.3+) support</code></pre>
