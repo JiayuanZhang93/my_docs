@@ -10,8 +10,13 @@ the distribution name of clang-4.0 is:<pre><code>clang+llvm-4.0.0-x86_64-linux-g
 clang-4.0 will be downloaded when you execute command <b>./install.py</b>
 <p>Hence, you can use download software to download this file.  Then copy this file to path:<b>/home/zhangjiayuan/.vim/bundle/YouCompleteMe/third_party/ycmd/clang_archives/</b></p>
 
+<<<<<<< HEAD
 ### vim installation and problems
 <p>if you use command as follows:</p>
+=======
+###  vim installation and problems
+<p> if you use command </p>
+>>>>>>> d8d53a57883928cc22f46314a42aaa0b341bd1d9
 <pre><code>sudo apt-get install vim</code></pre>
 <p>Maybe you will face the problems: </p>
 <pre><code>YouCompleteMe unavailable: requires Vim compiled with Python (2.6+ or 3.3+) support</code></pre>
