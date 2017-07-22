@@ -2,15 +2,16 @@
 this file describe the process to install YouCompleteMe plugin of Vim on Ubuntu14.04.
 
 ## Preflight
-### install clang
+### Install clang
 1. System install clang to compile YouCompleteme
 <pre><code>sudo apt-get install clang</code></pre>
 2. download clang-4.0
 the distribution name of clang-4.0 is:<pre><code>clang+llvm-4.0.0-x86_64-linux-gnu-ubuntu-14.04.tar.xz</code></pre>
 clang-4.0 will be downloaded when you execute command <b>./install.py</b>
 <p>Hence, you can use download software to download this file.  Then copy this file to path:<b>/home/zhangjiayuan/.vim/bundle/YouCompleteMe/third_party/ycmd/clang_archives/</b></p>
+
 ### vim installation and problems
-if you use command
+<p>if you use command</p>
 <pre><code>sudo apt-get install vim</code></pre>
 <p>Maybe you will face the problems: </p>
 <pre><code>YouCompleteMe unavailable: requires Vim compiled with Python (2.6+ or 3.3+) support</code></pre>
