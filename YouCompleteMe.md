@@ -12,7 +12,7 @@ clang-4.0 will be downloaded when you execute command <b>./install.py</b>
 
 <<<<<<< HEAD
 ### vim installation and problems
-<p>if you use command as follows:</p>
+<p>if you use command as follows:  </p>
 =======
 ###  vim installation and problems
 <p> if you use command </p>
