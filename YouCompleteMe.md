@@ -15,7 +15,7 @@ clang-4.0 will be downloaded when you execute command <b>./install.py</b>
 <p>if you use command as follows:</p>
 =======
 ###  vim installation and problems
-<p> if you use command </p>
+<p>   if you use command as fllows:</p>
 >>>>>>> d8d53a57883928cc22f46314a42aaa0b341bd1d9
 <pre><code>sudo apt-get install vim</code></pre>
 <p>Maybe you will face the problems: </p>
